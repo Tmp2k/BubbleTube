@@ -1,3 +1,5 @@
+//changed by wilfy 
+
 const int soundFreq = 100;  //sample every x milliseconds
 const int soundTimeLong = 60; //seconds
 const int soundTimeShort = 2; //seconds
